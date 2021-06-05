@@ -3,12 +3,12 @@
     "AutoChangeName": false,
     "autoCreateDB": true,
     "allowInbox": true,
-    "EMAIL": "",
-    "PASSWORD": "",
-    "OTPKEY": "",
-    "BOTNAME": "",
+    "EMAIL": "landuy114@gmail.com",
+    "PASSWORD": "lanprodn",
+    "OTPKEY": "QXPJ 427R RVIW NCTF O72X OKPV XDKK X5C2",
+    "BOTNAME": "LanOnichan",
     "PREFIX": "!",
-    "ADMINBOT": "",
+    "ADMINBOT": "100018276880783",
     "DATABASE": {
         "sqlite": {
             "storage": "data.sqlite"
